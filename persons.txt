@@ -1,0 +1,39 @@
+Ajay,VijayWada,7332254893,b.ajaycr@gmail.com
+Anil kumar,Chennai,9003245733,anilkumarnpdcl@gmail.com
+Arjun,Chennai,7981126367,ar789@gmail.com
+Bhargav,Kashmir,8932412334,bargav67@gmail.com
+Bupathi Rao,Nizambad,9878512345,bupatirao@yahoo.com
+Charan Teja,Hyderabad,8032791236,charantej23@gmail.com
+Dhoni,nil,nil,dhoni7@gmail.com
+Ganesh,nil,6789874532,ganesh34@gmail.com
+Henry,Coding Cleverly Land,1122334455,henrycod@gmail.com
+Itadori,Tokyo,3245612354,itadori234@gmail.com
+Jashwanth,nil,7675099892,nil
+Kiran Kumar,Vijaywada,nil,nil
+Likith Reddy,Karmanghat,7803215656,likithar12@gmail.com
+Mallesh,Thogarpally,4563218907,mallesh78@gmail.com
+Manikanta,Sadasivpet,8074676510,mani10@gmail.com
+Naruto,Konoha,6785327319,naru568@gmail.com
+Niraj Kumar,Hno:107 AV Chandana Heights Peerzadiguda,7893906896,neerajzz649@gmail.com
+Peruman,Thiruvananthapuram,4352667889,peruman@yahoo.com
+Peter,New York,1234567891,peterny@gmail.com
+Prabhas,Mumbai,nil,nil
+Praneeth,Warangal,nil,nil
+Praveen,Kazipet,nil,nil
+Rajesh Reddy,Vizag,1231245678,rajeshred@gmail.com
+Ravi,Sangareddy,8239824245,raviravula@gmail.com
+Rohit Vardhan,Nagole,4832894234,rohitbattula@gmail.com
+Srinivas,nil,7981126367,nil
+Sukesh,Rangareddy,2737128245,m.sukeshk789@gmail.com
+Suraj Kumar,HanamKonda,8074676510,m.surajk789@gmail.com
+Suresh,Medhak,1734981478,suresmalik@gmail.com
+Vamsha,Uppal,8074637244,vamshvardan@gmail.com
+Yeshwanth,Kamareddy,7846638232,yashwanth789@gmail.com
+Yash,Mumbai,7896543219,nil
+Mahesh,nil,6789054321,nil
+kumar,nil,6789054321,nil
+Bhanuprakash,nil,9087654321,nil
+Saketh,nil,7895643210,nil
+Tarun,Warangal,nil,m.tarun@gmail.com
+Rajesh,nil,9999999999,nil
+hulk,nil,9090909090,nil
